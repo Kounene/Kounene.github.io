@@ -1,0 +1,21 @@
+body
+{
+    background-image: linear-gradient(rgba(229,169,97,1),rgba(52,224,239,1));
+}
+
+header
+{
+    position: fixed;
+    top: 0;
+}
+
+.name
+{
+    display: inline-block;
+    color: lightgray;
+}
+
+.subtitle
+{
+    display: inline-block;
+}
