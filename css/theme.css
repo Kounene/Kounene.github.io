@@ -48,3 +48,23 @@ header
     margin: 0 auto;
     display: block;
 }
+
+
+#contact
+{
+    background: #c4270b;
+    color: bisque;
+}
+#projects {
+    background: #123456;
+    color: aliceblue;
+}
+
+#skills {
+    background: #108e8e;
+    color: aliceblue;
+}
+
+#me {
+    color: floralwhite;
+}
